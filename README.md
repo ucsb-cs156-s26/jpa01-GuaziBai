@@ -1,6 +1,6 @@
 # jpa01-GuaziBai
 
-Deployed at: [https://jpa01-guazibai.dokku-04.cs.ucsb.edu](https://jpa01-guazibai.dokku-04.cs.ucsb.edu)
+Deployed at: https://jpa01-guazibai.dokku-04.cs.ucsb.edu
 
 
 # About this repo
